@@ -34,7 +34,7 @@ number_to_bits(6)
 ```
 The output to stderr is:
 
-![](https://i.imgur.com/TrF3VVj.jpg)
+![img](https://camo.githubusercontent.com/3ec11fee6df7ded55956086a6d31e5e573451b30f8c22bbca56c51ff913116dc/68747470733a2f2f692e696d6775722e636f6d2f5472463356566a2e6a7067)
 
 Or if you don't want to trace an entire function, you can wrap the relevant part in a `with` block:
 
@@ -134,3 +134,6 @@ Copyright (c) 2019 Ram Rachum and collaborators, released under the MIT license.
 
 [Hacker News thread](https://news.ycombinator.com/item?id=19717786)
 and [/r/Python Reddit thread](https://www.reddit.com/r/Python/comments/bg0ida/pysnooper_never_use_print_for_debugging_again/) (22 April 2019)
+
+详细教程：https://blog.csdn.net/chinesehuazhou2/article/details/109759400
+
